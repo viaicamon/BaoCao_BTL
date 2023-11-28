@@ -1,0 +1,31 @@
+30
+hello: xin chao
+add: cong
+uppdate: cap nhat
+on: tren
+with: voi
+height: chieu cao
+width: chieu rong
+length: chieu dai
+size: kich thuoc
+wall: tuong
+glasses: kinh
+chair: ghe
+table: ban
+comfortable: thoai mai
+interesting: thu vi
+what: cai gi
+why: tai sao
+he: anh ay
+she: co ay
+it: no
+warter: nuoc
+animal: con vat
+end: ket thuc
+begin: bat dau
+root: goc
+yes: duoc
+no: khong
+ago: truoc
+how many: bao nhieu
+key: chia
